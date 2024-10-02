@@ -103,6 +103,7 @@ A mix of awesome things
 * [OpenMapTiles](https://openmaptiles.org/languages/ar/#1.38/0/0) - world map tiles in Arabic
 * [Arabic-Webfonts](https://github.com/mandooox/Arabic-Webfonts) - WordPress plugin which allow you to add Arabic fonts easily to any theme without coding.
 * [Simple Markdown Editor](https://github.com/ahmadajmi/markdown-arabic) - Write Markdown in Arabic.
+* [Qamous](https://qamous.org) - A Crowdsourced Dialectic Arabic Slang Dictionary.
 
 
 # Contribute & Keep This Alive!
